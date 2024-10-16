@@ -75,4 +75,3 @@ To run this script, you'll need Python installed with NumPy and Matplotlib libra
 
 4. Visualization Tools (Section 10.2): This script serves as an example of how computational tools can aid in understanding complex analysis concepts.
 
-Would you like me to explain any part of this code in more detail, or suggest ways to extend it for other topics in the courseware?
