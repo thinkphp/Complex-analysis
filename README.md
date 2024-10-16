@@ -1,5 +1,7 @@
 # Complex Analysis Mathematics Courseware
 
+A comprehensive structure for a Complex Analysis course suitable for advanced undergraduate or beginning graduate students at institutions like Princeton, Yale, MIT, Harvard, Oxford, Cambridge.
+
 ## 1. Introduction to Complex Numbers
 - 1.1 Definition and Representation: Introduce the concept of complex numbers as an extension of real numbers. Explore various forms of representation including rectangular and polar forms.
 - 1.2 Algebraic Operations: Discuss addition, subtraction, multiplication, and division of complex numbers. Emphasize the unique properties that arise when working with complex numbers.
